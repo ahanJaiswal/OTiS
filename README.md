@@ -4,9 +4,8 @@ I developed OTiS with Madhav in the [original repository](https://github.com/Mad
 
 - Originating the hackathon project idea.
 - Leading the mathematical and physical reasoning behind the simulator and neural network, including understanding the equations and concepts underpinning the project.
+- Implementing the physics reasoning while training the model through our tech stack
 - Contributing substantially to the UI design.
-
-We divided the work so that I focused on the underlying math and physics while Madhav carried out neural network training. Some development happened together in person on shared machines, so commit history does not fully reflect my contributions. This fork presents our shared project alongside my role.
 
 ---
 
